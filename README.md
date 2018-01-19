@@ -1,0 +1,1 @@
+An AngularJS based educational webapp with a RESTful back-end.
